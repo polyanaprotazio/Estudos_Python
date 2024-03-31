@@ -20,4 +20,3 @@ if encontrar in nome:
 else:
     print(f'{encontrar} não está em {nome}')
 
-# Teste polyana 
